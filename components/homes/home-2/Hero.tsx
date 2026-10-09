@@ -45,11 +45,11 @@ export default function Hero() {
               >
                 <h1 className="headline__title fullwidth d-md-flex flex-md-column">
                   <span className="title__line d-md-flex align-items-md-center justify-content-md-start loading__item">
-                    I am Alex Walker
+                    I am Zahra Mohammed
                   </span>
                   <span className="title__line d-md-flex justify-content-md-end loading__item">
                     <em className="text-end">
-                      Hello! I&apos;m Alex Walker, digital designer and
+                      Hello! I&apos;m Zahra Mohammed, digital designer and
                       illustrator based in Odesa, Ukraine
                     </em>
                     <span>digital designer</span>
@@ -69,7 +69,7 @@ export default function Hero() {
                 </h1>
                 <div className="headline__datamobile loading__fade">
                   <p>
-                    Hello! I&apos;m Alex Walker, digital designer and
+                    Hello! I&apos;m Zahra Mohammed, digital designer and
                     illustrator based in Odesa, Ukraine
                   </p>
                   <HoverCursorEffect

@@ -52,7 +52,7 @@ export default function Hero() {
                   data-delay="100"
                 >
                   Hello!
-                  <br />I am Alex Walker
+                  <br />I am Zahra Mohammed
                 </p>
                 <h1
                   className="headline__title loading__item hero-animate-in-up"

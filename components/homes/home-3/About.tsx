@@ -62,7 +62,7 @@ export default function About() {
                       </div>
                       <div className="col-12 col-md-4 col-xxl-3 grid-item about-info pre-title">
                         <div className="about-info__item animate-in-up">
-                          <h6>Alex Walker</h6>
+                          <h6>Zahra Mohammed</h6>
                         </div>
                         <div className="about-info__item animate-in-up">
                           <h6>
